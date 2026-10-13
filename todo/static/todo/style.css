@@ -1,0 +1,9 @@
+.completed {
+    text-decoration: line-through;
+    color: gray;
+    opacity: 0.6;
+}
+
+li:hover{
+    background-color: #f0f0f0;
+}

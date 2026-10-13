@@ -1,0 +1,17 @@
+# Virtual Environment ဖိုဒါကြီးကို မတင်အောင် ပိတ်ထား
+myenv/
+venv/
+ENV/
+
+# Python ရဲ့ ယာယီ cache ဖိုင်တွေကို ပိတ်တာ
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+#  စက်ထဲက စမ်းသပ် ဒေတာဘေ့စ်ကြီး ပါမသွားအောင်ပိတ်ထား
+db.sqlite3
+
+# os က ဆောက်တဲ့ မလိုအပ်တဲ့ ယာယီဖိုင်များ
+.DS_Store
+Thumbs.db
